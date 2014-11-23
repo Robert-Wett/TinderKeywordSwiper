@@ -1,0 +1,29 @@
+User: scaryterry's photo, url = http://images.gotinder.com/scaryterry/GUID-identifier-removed-for-privacy.jpg
+["portrait", "european", "fashion", "facial expression", "north america", "one", "adult", "actress", "model", "music"]
+
+User: scaryterry's photo, url = http://images.gotinder.com/scaryterry/GUID-identifier-removed-for-privacy.jpg
+["friendship", "togetherness", "party", "group", "friends", "family", "recreation", "laughing", "facial expression", "four"]
+
+User: scaryterry's photo, url = http://images.gotinder.com/scaryterry/GUID-identifier-removed-for-privacy.jpg
+["facial expression", "portrait", "fashion", "european", "actress", "clothing", "one", "recreation", "north america", "female"]
+
+User: scaryterry's photo, url = http://images.gotinder.com/scaryterry/GUID-identifier-removed-for-privacy.jpg
+["group", "friendship", "party", "music", "interaction", "facial expression", "recreation", "european", "social event", "togetherness"]
+
+User: scaryterry01's photo, url = http://images.gotinder.com/scaryterry01/GUID-identifier-removed-for-privacy.jpg
+["sunglasses", "two", "facial expression", "people", "portrait", "north america", "female", "group", "hat", "recreation"]
+
+User: madeupnickname's photo, url = http://images.gotinder.com/madeupnickname/GUID-identifier-removed-for-privacy.jpg
+["actress", "facial expression", "arrival", "portrait", "togetherness", "promotion", "two", "recreation", "red carpet", "female"]
+
+User: anothermadeupname's photo, url = http://images.gotinder.com/anothermadeupname/GUID-identifier-removed-for-privacy.jpg
+["group", "party", "friendship", "facial expression", "sunglasses", "recreation", "female", "music", "people", "two"]
+
+User: scaryterry001's photo, url = http://images.gotinder.com/scaryterry001/GUID-identifier-removed-for-privacy.jpg
+["friendship", "group", "togetherness", "facial expression", "party", "friends", "music", "recreation", "portrait", "youth"]
+
+User: scaryterry002's photo, url = http://images.gotinder.com/scaryterry002/GUID-identifier-removed-for-privacy.jpg
+["two", "facial expression", "interaction", "performing arts", "actress", "hugging", "portrait", "people", "clothing", "spouse"]
+
+User: scaryterry003's photo, url = http://images.gotinder.com/scaryterry003/GUID-identifier-removed-for-privacy.jpg
+["group", "several", "many", "four", "people", "five", "north america", "female", "three", "midwest"]
